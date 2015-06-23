@@ -1,2 +1,4 @@
 # web-inspiration
-Extra projects
+Extra projects and web inspiration.
+
+My sandbox !
